@@ -1,0 +1,4 @@
+Project Name: Automobile Prediction
+Dataset consists of data From 1985 Ward's Automotive Yearbook.
+This project is predicting the price of automibile based on their features like symboling,	normalized-losses,	wheel-base,	length,	width, height,	curb-weight,	engine-size,	compression-ratio,	city-mpg,
+highway-mpg, fuel-type etc....
